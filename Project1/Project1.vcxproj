@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="css.c" />
     <ClCompile Include="css2.c" />
+    <ClCompile Include="css3.c" />
     <ClCompile Include="p85.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
