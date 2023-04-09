@@ -133,6 +133,7 @@
     <ClCompile Include="css4.c" />
     <ClCompile Include="css5.c" />
     <ClCompile Include="css6.c" />
+    <ClCompile Include="css7.c" />
     <ClCompile Include="p85.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
