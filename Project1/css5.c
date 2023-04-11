@@ -2,20 +2,14 @@
 <html lang="ko">
     <head>
         <meta charset="UTF-8">
-        <title>top</title>
-        <style>
-            * {
-                margin: 0;
-            }
-            p {
-                font-size: large;
-                padding: 40px;
-                color: #fff;
-            }
-        </style>
+        <title>smj_board1</title>
     </head>
-    <body>
-        <marquee behavior = "alternate" bgcolor="0000ff"><p>홍길동 올림픽/아시안게임</p></marquee>
+    <body bgcolor=#88ff00>
+        <ol type="A">
+            <li>100미터</li>
+            <li>계주</li>
+            <li>마라톤</li>
+        </ol>
     </body>
 </html>*/
 #include <stdio.h>
