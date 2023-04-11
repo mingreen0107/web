@@ -2,17 +2,19 @@
 <html lang="ko">
     <head>
         <meta charset="UTF-8">
-        <title>bottom</title>
+        <title>smj_board2</title>
         <style>
-            p {
-                padding: 20px;
-                background-color: #000000;
-                color: #ffff00;
+            ul, li {
+                list-style: square;
             }
         </style>
     </head>
-    <body>
-        <p>홍길동 광고 목록</p>
+    <body bgcolor=#ffc400>
+        <ul>
+            <li>높이뛰기</li>
+            <li>멀리뛰기</li>
+            <li>창던지기</li>
+        </ul>
     </body>
 </html>*/
 #include <stdio.h>
