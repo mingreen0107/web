@@ -15,5 +15,5 @@
 #include <stdio.h>
 
 int main() {
-    printf("css ass 1");
+    printf("css 중간고사 연습");
 }
